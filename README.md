@@ -1,6 +1,7 @@
 # retro3d-assets
 
-Commercially usable game ready retro style 3d assets
+Commercially usable game ready retro style 3d assets with no attribution, share-alike, or such required.
+
 Source: https://github.com/Miziziziz/Retro3DGraphicsCollection
 
 ## Other Collections
